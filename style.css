@@ -1,0 +1,64 @@
+body{
+	background: linear-gradient(to right, pink, white);
+}
+
+img{
+	width:200px;
+	height:200px;
+}
+
+h1{
+	text-align: center;
+	margin-top: 85px;
+	font-size: 3rem;
+	color:blue;
+	text-transform: uppercase;
+	font-family: 'Luckiest Guy', cursive;
+}
+
+.maindiv{
+	border: 2px solid green;
+	margin-left: 300px;
+	margin-right:300px;
+	text-align: center;
+	border-radius: 20%;
+    background:url(Background.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+label{
+font-family: 'Luckiest Guy', cursive;
+color:green;
+font-size: 50px;
+}
+
+input{
+font-size: 2rem;
+color: blue;
+text-align: center;
+text-transform: capitalize;
+background-color: lightpink;
+border: 2px solid blue;
+}
+
+.ClickMe{
+background-color:red;
+border-radius: 50%;
+font-family: 'Luckiest Guy', cursive;
+height: 50px;
+width:200px;
+border: 2px solid blue;
+outline: none;
+}
+
+.Reset{
+background-color:green;
+border-radius: 50%;
+font-family: 'Luckiest Guy', cursive;
+height: 50px;
+width:200px;
+border: 2px solid blue;
+outline: none;
+}
+
